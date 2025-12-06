@@ -1,0 +1,10 @@
+# File yang dihasilkan oleh Python
+__pycache__/
+*.pyc
+*~
+.pytest_cache/
+
+# Folder/File Environment (jika ada)
+venv/
+env/
+.env
